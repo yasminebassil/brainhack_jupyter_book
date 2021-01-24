@@ -45,12 +45,14 @@ Brainhack Global (BHG) is an umbrella term for all the hacking events run all ar
 ### Brainhack Organization Committee
 
 ### Brainhack School
+A bootcamp that helps acquiring and solidifying the statistical and computational skills required to translate neuroimaging data into neuroscience knowledge. Generally, it consists of two weeks of active, open and collaborative hands-on work on small-to-medium size projects. 
 
 ### Brainstorming
 
 ### Bottom-up
 
 ### Brain Imaging Data Structure (BIDS)
+A standard for organizing, annotating, and describing neuroimaging and behavioral data based on an agreed-upon, formalized structure for folders and files.
 
 
 
@@ -195,6 +197,10 @@ GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manag
 ---
 
 ### Hacking
+In this context, hacking does not refer to trying to break through the security of a computer system. It is to be understood as tinkering with a system to understand how it works, extend or improve it.
+
+### Hackathon
+The term hackathon is a portmanteau of “hacking” and “marathon”. Traditionally, it is an event where people and teams gather to collaboratively work on projects over the course of multiple days. These events often feature competitions between teams; however, Brainhacks do not and instead emphasize collaboration.
 
 ### Hands-on
 
@@ -292,8 +298,10 @@ Metadata provides a basic description of the data, often including authorship, d
 
 
 ### OHBM
+The Organization for Human Brain Mapping (OHBM) is an international society dedicated to using neuroimaging to discover the organization of the human brain. The Society's main purpose is that of advancing the understanding of the anatomical and functional organization of the human brain, and promoting its medical and societal applications (https://www.humanbrainmapping.org/).
 
 ### OHBM Aperture
+An open-access publishing platform publishing a broad range of research objects such as research reports, reviews, tutorials, educational materials,  computational notebooks,  software, data papers.
 
 ### Open Access
 Open Access refers to online, free of cost access to peer-reviewed scientific content with free reusability regarding copyright restrictions.
@@ -398,7 +406,7 @@ A published report describing the hypotheses and planned method of a study, befo
 
 ### Replication
 Replication the repetition of a study’s method, to corroborate its results. An exact replication
-is a repetition using exactly the same procedures as the original stud.
+is a repetition using exactly the same procedures as the original study.
  
 ### Repository
  
@@ -486,6 +494,7 @@ Training is any organised activity that teaches, informs, or transfers skills or
 A conventionally named, standardised delivery method that is applied by a trainer and includes any number of the pedagogical tools necessary (i.e. motivation/demotivation, hands-on approaches, etc).
 
 ### Traintrak
+A series of educational talks or workshops that runs in parallel to the project work where attendees are working on projects. The content of the TrainTrack can range from tutorials to learn some skills needed for many projects in a Brainhack (like code version-control using Git) to a software demo with much narrower applications.
 
 ### Traditional
 
@@ -499,8 +508,9 @@ A conventionally named, standardised delivery method that is applied by a traine
 ---
 
 ### Unconference
+It is a short session for participants to present their research or any other topics of current interest in an informal setting. The content of an unconference is usually decided very shortly before or during the Brainhack event itself, often inspired by ongoing within-team discussions that could be of interest to the larger group.
 
-Unconventional
+### Unconventional
 
 
 ## **V**
@@ -522,6 +532,7 @@ Version control is the management of changes to documents, computer programs, la
 ### Workflow
 
 ###  Workforce
+The labour pool of a given Institution, Company, or State. It can be formal or informal, but either way, it should unite.
 
 
 
